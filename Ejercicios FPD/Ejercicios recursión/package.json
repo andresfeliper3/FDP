@@ -1,0 +1,17 @@
+{
+  "name": "ejercicios",
+  "version": "0.0.1",
+  "description": "Taller",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andrés Rincón",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  },
+  "dependencies": {
+    "functional-light": "^0.1.0"
+  }
+}
